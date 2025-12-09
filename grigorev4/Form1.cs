@@ -9,9 +9,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.VisualStyles;
-using ghyshchyan4rkis.ModelEF;
+using grigorev4.ModelEF;
 
-namespace ghyshchyan4rkis
+namespace grigorev4
 {
     public partial class Form1 : Form
     {
